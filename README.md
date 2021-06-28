@@ -1,5 +1,5 @@
 # Metaeducation Global Initiative
 
 - English
-- [Russian](Docs/The-Concept-RU.md)
-- Украинский
+- [Русский](Docs/The-Concept-RU.md)
+- Українська
